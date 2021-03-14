@@ -86,8 +86,8 @@ footer {
   height: 2px;
   width: 0;
   background: transparent;
-  -webkit-transition: width 0.3s ease, background-color 0.3s ease;
-  transition: width 0.3s ease, background-color 0.3s ease;
+  -webkit-transition: width 0.4s ease, background-color 0.4s ease;
+  transition: width 0.4s ease, background-color 0.4s ease;
 }
 
 .navbar .navbar-nav .nav-link:hover::after {
